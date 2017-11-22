@@ -1,0 +1,30 @@
+{
+  "name": "math-bound",
+  "version": "1.0.0",
+  "description": "Set boundaries to a number. The powers of Math.min() and Math.max() combined!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front/math-bound.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Math",
+    "bound",
+    "min",
+    "max",
+    "boundaries"
+  ],
+  "author": "Frontkom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/front/math-bound/issues"
+  },
+  "homepage": "https://github.com/front/math-bound#readme",
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
